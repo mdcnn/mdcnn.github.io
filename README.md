@@ -12,6 +12,13 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 # Publication
 
+#### @article{zhao2017simultaneous,
+  title={Simultaneous color-depth super-resolution with conditional generative adversarial networks},
+  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Zeng, Bing and Wang, Anhong and Zhao, Yao},
+  journal={Pattern Recognition},
+  year={2018}
+}
+
 #### @article{zhao2018LAD,
   title={Local Activity-Driven Structural-Preserving Filtering\\ for Noise Removal and Image Smoothing},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Bing, Zeng and Zhao, Yao},
@@ -54,13 +61,6 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
   pages={11--22},
   year={2017},
   publisher={Elsevier}
-}
-
-#### @article{zhao2017simultaneously,
-  title={Simultaneous color-depth super-resolution with conditional generative adversarial network},
-  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Zeng, Bing and Wang, Anhong and Zhao, Yao},
-  journal={arXiv preprint arXiv:1708.09105},
-  year={2017}
 }
 
 #### @inproceedings{zhao2017single,
