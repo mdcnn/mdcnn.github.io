@@ -40,7 +40,7 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 }
 
 #### @article{zhao2018dmdc[[Web]](https://arxiv.org/abs/1811.01504v1),
-  title={Deep Multiple Description Coding by Learning Scalar Quantization},
+  title={Deep multiple description coding by learning scalar quantization},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={arXiv preprint arXiv:1811.01504v1},
   year={2018}
@@ -84,7 +84,7 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 }
 
 #### @article{zhao2018virtual,
-  title={Virtual Codec Supervised Re-Sampling Network for Image Compression},
+  title={Virtual codec supervised re-sampling network for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={arXiv preprint arXiv:1806.08514},
   year={2018}
@@ -98,7 +98,7 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 }
 
 #### @article{wang2017cascaded,
-  title={Cascaded Reconstruction Network for Compressive image sensing},
+  title={Cascaded reconstruction network for compressive image sensing},
   author={Wang, Yahan and Bai, Huihui and Zhao, Lijun and Zhao, Yao},
   journal={arXiv preprint arXiv:1712.03627},
   year={2017}
@@ -116,9 +116,9 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 }
 
 #### @article{zhao2015scalable,
-  title={Scalable Coding of Depth Images with Synthesis-Guided Edge Detection},
+  title={Scalable coding of depth images with synthesis-guided edge detection},
   author={Zhao, Lijun and Wang, Anhong and Zeng, Bing and Jin, Jian},
-  journal={Ksii Transactions on Internet \& Information Systems},
+  journal={Ksii Transactions on Internet and Information Systems},
   volume={9},
   number={10},
   year={2015}
