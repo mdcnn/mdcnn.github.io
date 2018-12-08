@@ -12,26 +12,77 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 # Publication
 
-#### @article{zhao2017simultaneous,
+#### @article{zhao2017simultaneous[[Web]](https://www.sciencedirect.com/science/article/pii/S0031320318304175),
   title={Simultaneous color-depth super-resolution with conditional generative adversarial networks},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Zeng, Bing and Wang, Anhong and Zhao, Yao},
   journal={Pattern Recognition},
-  year={2018}
+  volume={88},
+  pages={356–369},
+  year={2019}
+  publisher={Elsevier}
 }
 
-#### @article{zhao2018LAD,
-  title={Local Activity-Driven Structural-Preserving Filtering\\ for Noise Removal and Image Smoothing},
+#### @article{zhao2018LAD[[Web]](https://www.sciencedirect.com/science/article/pii/S0165168418303724),
+  title={Local activity-driven structural-preserving filtering for noise removal and image smoothing},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Bing, Zeng and Zhao, Yao},
   journal={Signal Processing},
-  year={2018}
+  volume={157},
+  pages={62–72},
+  year={2019}
+  publisher={Elsevier}
 }
 
-#### @article{zhao2018multiple,
+#### @article{zhao2018multiple[[Web]](https://ieeexplore.ieee.org/document/8445655),
   title={Multiple description convolutional neural networks for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2019}
+}
+
+#### @article{zhao2018dmdc[[Web]](https://arxiv.org/abs/1811.01504v1),
+  title={Deep Multiple Description Coding by Learning Scalar Quantization},
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  journal={arXiv preprint arXiv:1811.01504v1},
   year={2018}
 }
+
+#### @article{zhao2017two[[Web]](https://www.sciencedirect.com/science/article/pii/S0923596517300255),
+  title={Two-stage filtering of compressed depth images with Markov Random Field},
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao and Zeng, Bing},
+  journal={Signal Processing: Image Communication},
+  volume={54},
+  pages={11--22},
+  year={2017},
+  publisher={Elsevier}
+}
+
+#### @article{zhao2017iterative[[Web]](Iterative range-domain weighted filter for structural preserving image smoothing and de-noising),
+  title={Iterative range-domain weighted filter for structural preserving image smoothing and de-noising},
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  journal={Multimedia Tools and Applications},
+  pages={1--28},
+  year={2017},
+  publisher={Springer}
+}
+
+#### @inproceedings{zhao2017single[[Web]](https://ieeexplore.ieee.org/abstract/document/8019331/),
+  title={Single depth image super-resolution with multiple residual dictionary learning and refinement},
+  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Zhao, Yao},
+  booktitle={Multimedia and Expo (ICME), 2017 IEEE International Conference on},
+  pages={739-744},
+  year={2017},
+  organization={IEEE}
+}
+
+#### @inproceedings{zhao2016joint,
+  title={Joint iterative guidance filtering for compressed depth images},
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  booktitle={Visual Communications and Image Processing (VCIP), 2016},
+  pages={1-4},
+  year={2016},
+  organization={IEEE}
+}
+
 #### @article{zhao2018virtual,
   title={Virtual Codec Supervised Re-Sampling Network for Image Compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
@@ -51,43 +102,6 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
   author={Wang, Yahan and Bai, Huihui and Zhao, Lijun and Zhao, Yao},
   journal={arXiv preprint arXiv:1712.03627},
   year={2017}
-}
-
-#### @article{zhao2017two,
-  title={Two-stage filtering of compressed depth images with Markov Random Field},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao and Zeng, Bing},
-  journal={Signal Processing: Image Communication},
-  volume={54},
-  pages={11--22},
-  year={2017},
-  publisher={Elsevier}
-}
-
-#### @inproceedings{zhao2017single,
-  title={Single depth image super-resolution with multiple residual dictionary learning and refinement},
-  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Zhao, Yao},
-  booktitle={Multimedia and Expo (ICME), 2017 IEEE International Conference on},
-  pages={739--744},
-  year={2017},
-  organization={IEEE}
-}
-
-#### @article{zhao2017iterative,
-  title={Iterative range-domain weighted filter for structural preserving image smoothing and de-noising},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={Multimedia Tools and Applications},
-  pages={1--28},
-  year={2017},
-  publisher={Springer}
-}
-
-#### @inproceedings{zhao2016joint,
-  title={Joint iterative guidance filtering for compressed depth images},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  booktitle={Visual Communications and Image Processing (VCIP), 2016},
-  pages={1--4},
-  year={2016},
-  organization={IEEE}
 }
 
 #### @article{zhao2015candidate,
