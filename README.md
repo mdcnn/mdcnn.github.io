@@ -56,7 +56,7 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
   publisher={Elsevier}
 }
 
-#### @article{zhao2017iterative[[Web]](Iterative range-domain weighted filter for structural preserving image smoothing and de-noising),
+#### @article{zhao2017iterative[[Web]](https://link.springer.com/article/10.1007/s11042-017-5253-1),
   title={Iterative range-domain weighted filter for structural preserving image smoothing and de-noising},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={Multimedia Tools and Applications},
