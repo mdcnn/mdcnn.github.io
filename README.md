@@ -10,6 +10,9 @@ My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
 Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
+Reviewer： IEEE Transactions on Multimedia(2), VCIP2017
+
+
 # Publication
 
 #### @article{zhao2017simultaneous[[Web]](https://www.sciencedirect.com/science/article/pii/S0031320318304175),
@@ -74,7 +77,16 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
   organization={IEEE}
 }
 
-#### @inproceedings{zhao2016joint,
+#### @inproceedings{zhao2017single[[Web]](https://ieeexplore.ieee.org/abstract/document/8296720/),
+  title={Convolutional Neural Network-based Depth Image Artifact Removal},
+  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Zhao, Yao},
+  booktitle={Image Processing (ICIP), 2017 IEEE International Conference on},
+  pages={739-744},
+  year={2017},
+  organization={IEEE}
+}
+
+#### @inproceedings{zhao2016joint[[Web]](http://ieeexplore.ieee.org/document/7805457/),
   title={Joint iterative guidance filtering for compressed depth images},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   booktitle={Visual Communications and Image Processing (VCIP), 2016},
@@ -83,28 +95,28 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
   organization={IEEE}
 }
 
-#### @article{zhao2018virtual,
+#### @article{zhao2018virtual[[Web]](http://arxiv.org/abs/1806.08514),
   title={Virtual codec supervised re-sampling network for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={arXiv preprint arXiv:1806.08514},
   year={2018}
 }
 
-#### @article{zhao2017learning,
+#### @article{zhao2017learning[[Web]](http://arxiv.org/abs/1712.05969),
   title={Learning a virtual codec based on deep convolutional neural network to compress image},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={arXiv preprint arXiv:1712.05969},
   year={2017}
 }
 
-#### @article{wang2017cascaded,
+#### @article{wang2017cascaded[[Web]](http://link.springer.com/article/10.1186/s13640-018-0315-5),
   title={Cascaded reconstruction network for compressive image sensing},
   author={Wang, Yahan and Bai, Huihui and Zhao, Lijun and Zhao, Yao},
   journal={arXiv preprint arXiv:1712.03627},
   year={2017}
 }
 
-#### @article{zhao2015candidate,
+#### @article{zhao2015candidate[[Web]](https://www.researchgate.net/publication/273395477_Candidate_value-based_boundary_filtering_for_compressed_depth_images),
   title={Candidate value-based boundary filtering for compressed depth images},
   author={Zhao, Lijun and Wang, Anhong and Zeng, Bing and Wu, Yingchun},
   journal={Electronics Letters},
@@ -115,7 +127,7 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
   publisher={IET}
 }
 
-#### @article{zhao2015scalable,
+#### @article{zhao2015scalable[[Web]](http://www.kpubs.org/article/articleDownload.kpubs?downType=pdf&articleANo=E1KOBZ_2015_v9n10_4108),
   title={Scalable coding of depth images with synthesis-guided edge detection},
   author={Zhao, Lijun and Wang, Anhong and Zeng, Bing and Jin, Jian},
   journal={Ksii Transactions on Internet and Information Systems},
