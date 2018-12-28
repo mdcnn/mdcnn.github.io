@@ -45,8 +45,8 @@ Reviewer： IEEE Transactions on Multimedia(2), VCIP2017
 #### @article{zhao2018dmdc[[Web]](https://arxiv.org/abs/1811.01504v1),
   title={Deep multiple description coding by learning scalar quantization},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={arXiv preprint arXiv:1811.01504v1},
-  year={2018}
+  journal={Data Compression Conference},
+  year={2019}
 }
 
 #### @article{zhao2017two[[Web]](https://www.sciencedirect.com/science/article/pii/S0923596517300255),
