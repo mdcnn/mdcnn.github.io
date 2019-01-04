@@ -15,7 +15,7 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
 
 # Publication
 
-#### @article{zhao2017simultaneous[[Web]](https://www.sciencedirect.com/science/article/pii/S0031320318304175),
+#### @article{zhao2019simultaneous[[Web]](https://www.sciencedirect.com/science/article/pii/S0031320318304175),
   title={Simultaneous color-depth super-resolution with conditional generative adversarial networks},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Zeng, Bing and Wang, Anhong and Zhao, Yao},
   journal={Pattern Recognition},
@@ -25,7 +25,7 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   publisher={Elsevier}
 }
 
-#### @article{zhao2018LAD[[Web]](https://www.sciencedirect.com/science/article/pii/S0165168418303724),
+#### @article{zhao2019LAD[[Web]](https://www.sciencedirect.com/science/article/pii/S0165168418303724),
   title={Local activity-driven structural-preserving filtering for noise removal and image smoothing},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Bing, Zeng and Zhao, Yao},
   journal={Signal Processing},
@@ -35,14 +35,14 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   publisher={Elsevier}
 }
 
-#### @article{zhao2018multiple[[Web]](https://ieeexplore.ieee.org/document/8445655),
+#### @article{zhao2019multiple[[Web]](https://ieeexplore.ieee.org/document/8445655),
   title={Multiple description convolutional neural networks for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2019}
 }
 
-#### @article{zhao2018dmdc[[Web]](https://arxiv.org/abs/1811.01504v1),
+#### @article{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v1),
   title={Deep multiple description coding by learning scalar quantization},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={Data Compression Conference},
