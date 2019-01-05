@@ -1,6 +1,6 @@
 # Lijun Zhao
 <p align='left'>  
-  <img src='fig/zlj.jpg' width='500'/>
+  <img src='fig/zlj.jpg' width='200'/>
 PhD Candidate
 
 The Beijing Key Laboratory of Advanced Information Science and Network Technology, Institute Information Science, Beijing Jiaotong University, Beijing, 100044, P. R. China
