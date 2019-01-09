@@ -15,7 +15,7 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
 
 # Publication
 
-#### @article{zhao2019simultaneous[[Web]](https://www.sciencedirect.com/science/article/pii/S0031320318304175),
+#### @article{zhao2019simultaneous[[Web]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Project]](https://github.com/mdcnn/CDcGAN),
   title={Simultaneous color-depth super-resolution with conditional generative adversarial networks},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Zeng, Bing and Wang, Anhong and Zhao, Yao},
   journal={Pattern Recognition},
@@ -25,7 +25,7 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   publisher={Elsevier}
 }
 
-#### @article{zhao2019LAD[[Web]](https://www.sciencedirect.com/science/article/pii/S0165168418303724),
+#### @article{zhao2019LAD[[Web]](https://www.sciencedirect.com/science/article/pii/S0165168418303724)[[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering),
   title={Local activity-driven structural-preserving filtering for noise removal and image smoothing},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Bing, Zeng and Zhao, Yao},
   journal={Signal Processing},
@@ -35,21 +35,21 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   publisher={Elsevier}
 }
 
-#### @article{zhao2019multiple[[Web]](https://ieeexplore.ieee.org/document/8445655),
+#### @article{zhao2019multiple[[Web]](https://ieeexplore.ieee.org/document/8445655)[[Project]](https://github.com/mdcnn/MDCNN_test40),
   title={Multiple description convolutional neural networks for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2019}
 }
 
-#### @article{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v1),
+#### @article{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v1)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
   title={Deep multiple description coding by learning scalar quantization},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={Data Compression Conference},
   year={2019}
 }
 
-#### @article{zhao2017two[[Web]](https://www.sciencedirect.com/science/article/pii/S0923596517300255),
+#### @article{zhao2017two[[Web]](https://www.sciencedirect.com/science/article/pii/S0923596517300255)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Two-stage filtering of compressed depth images with Markov Random Field},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao and Zeng, Bing},
   journal={Signal Processing: Image Communication},
@@ -59,7 +59,7 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   publisher={Elsevier}
 }
 
-#### @article{zhao2017iterative[[Web]](https://link.springer.com/article/10.1007/s11042-017-5253-1),
+#### @article{zhao2017iterative[[Web]](https://link.springer.com/article/10.1007/s11042-017-5253-1)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Iterative range-domain weighted filter for structural preserving image smoothing and de-noising},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={Multimedia Tools and Applications},
@@ -116,7 +116,7 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   year={2017}
 }
 
-#### @article{zhao2015candidate[[Web]](https://www.researchgate.net/publication/273395477_Candidate_value-based_boundary_filtering_for_compressed_depth_images),
+#### @article{zhao2015candidate[[Web]](https://www.researchgate.net/publication/273395477_Candidate_value-based_boundary_filtering_for_compressed_depth_images)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Candidate value-based boundary filtering for compressed depth images},
   author={Zhao, Lijun and Wang, Anhong and Zeng, Bing and Wu, Yingchun},
   journal={Electronics Letters},
