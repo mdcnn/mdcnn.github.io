@@ -2,7 +2,7 @@
 
 PhD Candidate
 
-The Beijing Key Laboratory of Advanced Information Science and Network Technology, Institute Information Science, Beijing Jiaotong University, Beijing, 100044, P. R. China
+The Beijing Key Laboratory of Advanced Information Science and Network Technology, Institute of Information Science, Beijing Jiaotong University, Beijing, 100044, P. R. China
 
 Email: 15112084@bjtu.edu.cn
 
