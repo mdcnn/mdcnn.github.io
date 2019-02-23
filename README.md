@@ -10,7 +10,7 @@ My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
 Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
-Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
+Reviewer： IEEE Transactions on Multimedia, IEEE Access, VCIP2017
 
 
 # Publication
@@ -42,12 +42,12 @@ Reviewer： IEEE Transactions on Multimedia(2), IEEE Access, VCIP2017
   year={2019}
 }
 
-#### @article{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
-  title={Deep multiple description coding by learning scalar quantization},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={Data Compression Conference},
-  year={2019}
-}
+#### @inproceedings{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+  title={Deep multiple description coding by learning scalar quantization}, 
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
+  booktitle={Data Compression Conference}, 
+  year={2019}, 
+  organization={IEEE} }
 
 #### @article{zhao2017two[[PDF]](https://www.sciencedirect.com/science/article/pii/S0923596517300255)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Two-stage filtering of compressed depth images with Markov Random Field},
