@@ -14,9 +14,9 @@ Reviewer： IEEE Transactions on Multimedia, Jordanian Journal of Computers and 
 
 # Submitted
 
-#### Learning a virtual codec based on deep convolutional neural network to compress image (2nd round revision in Journal of Visual Communication and Image Representation)
+#### 1. Learning a virtual codec based on deep convolutional neural network to compress image (2nd round revision in Journal of Visual Communication and Image Representation)
 
-#### Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (1st round revision in IEEE Transactions on Circuits and Systems for Video Technology)
+#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (1st round revision in IEEE Transactions on Circuits and Systems for Video Technology)
 
 # Publication
 
