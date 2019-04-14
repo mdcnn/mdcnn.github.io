@@ -4,13 +4,14 @@ PhD Candidate
 
 The Beijing Key Laboratory of Advanced Information Science and Network Technology, Institute of Information Science, Beijing Jiaotong University, Beijing, 100044, P. R. China
 
-Email: 15112084@bjtu.edu.cn
+##### Email: 15112084@bjtu.edu.cn
 
-My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
+##### My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
-Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
+##### Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
-# Reviewer： IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, Jordanian Journal of Computers and Information Technology, IEEE Access, VCIP2017
+##### Reviewer： 
+IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, Jordanian Journal of Computers and Information Technology, IEEE Access, VCIP2017
 
 # Submitted
 
