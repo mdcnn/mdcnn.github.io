@@ -10,8 +10,13 @@ My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
 Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
-Reviewer： IEEE Transactions on Multimedia, IEEE Access, VCIP2017
+Reviewer： IEEE Transactions on Multimedia, Jordanian Journal of Computers and Information Technology, IEEE Access, VCIP2017
 
+# Submitted
+
+#### Learning a virtual codec based on deep convolutional neural network to compress image (2nd round revision in Journal of Visual Communication and Image Representation)
+
+#### Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (1st round revision in IEEE Transactions on Circuits and Systems for Video Technology)
 
 # Publication
 
