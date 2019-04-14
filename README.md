@@ -12,12 +12,6 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Reviewer： IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, Jordanian Journal of Computers and Information Technology, IEEE Access, VCIP2017
 
-# Submitted
-
-#### 1. Learning a virtual codec based on deep convolutional neural network to compress image (2nd round Review---Journal of Visual Communication and Image Representation)
-
-#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
-
 # Publication
 
 #### @article{zhao2019simultaneous[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Project]](https://github.com/mdcnn/CDcGAN),
@@ -140,3 +134,9 @@ Reviewer： IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, 
   number={10},
   year={2015}
 }
+
+# Submitted
+
+#### 1. Learning a virtual codec based on deep convolutional neural network to compress image (2nd Round Review---Journal of Visual Communication and Image Representation)
+
+#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
