@@ -1,8 +1,6 @@
 # Lijun Zhao
 
-PhD Candidate
-
-The Beijing Key Laboratory of Advanced Information Science and Network Technology, Institute of Information Science, Beijing Jiaotong University, Beijing, 100044, P. R. China
+I will join Taiyuan University of Science and Technology as a Lecturer (Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China).
 
 Email: 15112084@bjtu.edu.cn
 
