@@ -1,8 +1,8 @@
-# Lijun Zhao
+# Lijun Zhao（赵利军）
 
-I'm now a Lecturer in Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
+I'm now a Lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
-Email: 15112084@bjtu.edu.cn
+Email: leejun@tyust.edu.cn
 
 My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
