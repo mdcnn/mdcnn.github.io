@@ -1,6 +1,6 @@
 # Lijun Zhao
 
-I will join Taiyuan University of Science and Technology as a Lecturer (Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China).
+I'm now a Lecturer in Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
 Email: 15112084@bjtu.edu.cn
 
