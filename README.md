@@ -1,5 +1,5 @@
 # Lijun Zhao（赵利军）
-<p align='left'>  
+
   <img src='IMAGE/ZLJ.jpg' width='188'/>
   
 I'm now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
