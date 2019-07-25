@@ -1,5 +1,7 @@
 # Lijun Zhao（赵利军）
-
+<p align='center'>  
+  <img src='IMAGE/zlj.jpg' width='200'/>
+  
 I'm now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
 Email: leejun@tyust.edu.cn
