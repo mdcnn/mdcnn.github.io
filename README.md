@@ -1,4 +1,4 @@
-<img src='IMAGE/ZLJ.jpg' width='266'/>
+<img src='IMAGE/ZLJ.JPG' width='266'/>
 
 # Lijun Zhao（赵利军）
 
