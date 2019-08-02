@@ -17,15 +17,15 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
 #### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
 
 # Submitting
-#### 1. One new paper about image smoothing based on deep neural networks (To IEEE Transactions on Multimedia)
+#### 1. One new paper about image smoothing based on deep neural networks (To IEEE Transactions...)
 
 # Publication
 
-#### @article{zhao2019codec,
-  title={Learning a virtual codec based on deep convolutional neural network to compress image},
+#### @article{zhao2019multiple[[PDF]](https://ieeexplore.ieee.org/document/8445655)[[Project]](https://github.com/mdcnn/MDCNN_test40),
+  title={Multiple description convolutional neural networks for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={Journal of Visual Communication and Image Representation},
-  publisher={Elsevier}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2019}
 }
 
 #### @article{zhao2019simultaneous[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Project]](https://github.com/mdcnn/CDcGAN),
@@ -48,11 +48,11 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
   publisher={Elsevier}
 }
 
-#### @article{zhao2019multiple[[PDF]](https://ieeexplore.ieee.org/document/8445655)[[Project]](https://github.com/mdcnn/MDCNN_test40),
-  title={Multiple description convolutional neural networks for image compression},
+#### @article{zhao2019codec[[PDF]](https://www.sciencedirect.com/science/article/pii/S104732031930210X)[[Project]](https://github.com/mdcnn/Virtual_Codec_Network),
+  title={Learning a virtual codec based on deep convolutional neural network to compress image},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2019}
+  journal={Journal of Visual Communication and Image Representation},
+  publisher={Elsevier}
 }
 
 #### @inproceedings{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
