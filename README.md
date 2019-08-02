@@ -14,10 +14,10 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
 
 # Submitted
 
-#### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
+#### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Revision---IEEE Transactions on Circuits and Systems for Video Technology)
 
 # Submitting
-#### 1. One new paper about image smoothing based on deep neural networks (To IEEE Transactions...)
+#### 1. One new paper about image smoothing based on deep neural networks (To IEEE Transactions)
 
 # Publication
 
@@ -55,7 +55,7 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
   publisher={Elsevier}
 }
 
-#### @inproceedings{zhao2019dmdc[[Web]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+#### @inproceedings{zhao2019dmdc[[PDF]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
   title={Deep multiple description coding by learning scalar quantization}, 
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
   booktitle={Data Compression Conference}, 
