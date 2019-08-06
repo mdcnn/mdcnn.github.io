@@ -1,6 +1,6 @@
 <img src='IMAGE/ZLJ.JPG' width='188'/>
 
-# Lijun Zhao（赵利军）<img src='IMAGE/ZLJ.JPG' width='216'/>
+# Lijun Zhao
 
 I'm now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
