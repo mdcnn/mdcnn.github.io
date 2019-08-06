@@ -1,6 +1,6 @@
-<img src='IMAGE/ZLJ.JPG' width='266'/>
+<img src='IMAGE/ZLJ.JPG' width='188'/>
 
-# Lijun Zhao（赵利军）
+# Lijun Zhao（赵利军）<img src='IMAGE/ZLJ.JPG' width='216'/>
 
 I'm now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
@@ -55,13 +55,6 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
   publisher={Elsevier}
 }
 
-#### @inproceedings{zhao2019dmdc[[PDF]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
-  title={Deep multiple description coding by learning scalar quantization}, 
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
-  booktitle={Data Compression Conference}, 
-  year={2019}, 
-  organization={IEEE} }
-
 #### @article{zhao2017two[[PDF]](https://www.sciencedirect.com/science/article/pii/S0923596517300255)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Two-stage filtering of compressed depth images with Markov Random Field},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao and Zeng, Bing},
@@ -81,6 +74,13 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
   publisher={Springer}
 }
 
+#### @inproceedings{zhao2019dmdc[[PDF]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+  title={Deep multiple description coding by learning scalar quantization}, 
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
+  booktitle={Data Compression Conference}, 
+  year={2019}, 
+  organization={IEEE} }
+  
 #### @inproceedings{zhao2017single[[PDF]](https://ieeexplore.ieee.org/abstract/document/8019331/),
   title={Single depth image super-resolution with multiple residual dictionary learning and refinement},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Zhao, Yao},
@@ -113,13 +113,6 @@ Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Br
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
   journal={arXiv preprint arXiv:1806.08514},
   year={2018}
-}
-
-#### @article{zhao2017learning[[PDF]](http://arxiv.org/abs/1712.05969),
-  title={Learning a virtual codec based on deep convolutional neural network to compress image},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={arXiv preprint arXiv:1712.05969},
-  year={2017}
 }
 
 #### @article{wang2017cascaded[[PDF]](http://link.springer.com/article/10.1186/s13640-018-0315-5),
