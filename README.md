@@ -15,13 +15,11 @@ Publons: https://publons.com/researcher/3002492/lijun-zhao
 Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
 # Submitted
-
-#### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Revision---IEEE Transactions on Circuits and Systems for Video Technology)
-
-#### 2. HDA Video Transmission Scheme for DASH (Under Review---IEEE ACCESS)
-
-# Submitted
 #### 1. One new paper about image smoothing based on deep neural networks (To IEEE Transactions on NNLS)
+
+#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Revision---IEEE Transactions on Circuits and Systems for Video Technology)
+
+#### 3. HDA Video Transmission Scheme for DASH (Under Review---IEEE ACCESS)
 
 # Publication
 
