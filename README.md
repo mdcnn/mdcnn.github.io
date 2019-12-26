@@ -12,14 +12,14 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer： IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
+Reviewer for International Journals：IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology
+
+Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
 # Submitted
 #### 1. One new paper about image smoothing based on deep neural networks (Under Review---IEEE Transactions on NNLS)
 
-#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Revision---IEEE Transactions on Circuits and Systems for Video Technology)
-
-#### 3. HDA Video Transmission Scheme for DASH (Under Review---IEEE ACCESS)
+#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
 
 # Publication
 
