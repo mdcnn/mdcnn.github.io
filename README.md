@@ -12,14 +12,25 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for International Journals：IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology
+Reviewer for International Journals：IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences
 
 Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
-# Submitted
-#### 1. One new paper about image smoothing based on deep neural networks (Under Review---IEEE Transactions on NNLS)
+# In-peer Review
 
-#### 2. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
+#### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
+
+#### 2. A New Paper About Image Fusion (Under Review---IEEE Transactions on Image Processing)
+
+
+# Technical Report
+
+#### @article{wang2017cascaded[[PDF]](https://arxiv.org/abs/2001.03847),
+  title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
+  author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
+  journal={arXiv preprint arXiv:2001.03847},
+  year={2020}
+}
 
 # Publication
 
@@ -120,8 +131,8 @@ Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International 
 #### @article{wang2017cascaded[[PDF]](http://link.springer.com/article/10.1186/s13640-018-0315-5),
   title={Cascaded reconstruction network for compressive image sensing},
   author={Wang, Yahan and Bai, Huihui and Zhao, Lijun and Zhao, Yao},
-  journal={arXiv preprint arXiv:1712.03627},
-  year={2017}
+  journal={EURASIP Journal on Image and Video Processing},
+  year={2018}
 }
 
 #### @article{zhao2015candidate[[PDF]](https://www.researchgate.net/publication/273395477_Candidate_value-based_boundary_filtering_for_compressed_depth_images)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
