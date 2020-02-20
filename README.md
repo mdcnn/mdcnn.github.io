@@ -2,11 +2,11 @@
 
 # Lijun Zhao
 
-I'm now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
+He is now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
 Email: leejun@tyust.edu.cn
 
-My researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
+Researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
 Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
@@ -16,7 +16,7 @@ Reviewer for International Journals：IEEE Transactions on Industrial Informatic
 
 Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
-# In-peer Review
+# In-Peer Review
 
 #### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
 
