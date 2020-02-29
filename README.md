@@ -25,7 +25,7 @@ Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International 
 
 # Technical Report
 
-#### @article{wang2017cascaded[[PDF]](https://arxiv.org/abs/2001.03847),
+#### @article{zhao2020concurrent[[PDF]](https://arxiv.org/abs/2001.03847),
   title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
   author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
   journal={arXiv preprint arXiv:2001.03847},
