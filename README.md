@@ -18,7 +18,7 @@ Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International 
 
 # In-Peer Review
 
-#### 1. Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
+#### 1.  (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
 
 #### 2. A New Paper About Image Fusion (Under Review---IEEE Transactions on Image Processing)
 
@@ -29,6 +29,13 @@ Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International 
   title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
   author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
   journal={arXiv preprint arXiv:2001.03847},
+  year={2020}
+}
+
+#### @article{zhao2020concurrent[[PDF]](https://arxiv.org/pdf/2001.03851.pdf)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+  title={Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning},
+  author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao},
+  journal={arXiv:2001.03851.},
   year={2020}
 }
 
