@@ -16,12 +16,6 @@ Reviewer for International Journals：IEEE Transactions on Industrial Informatic
 
 Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
-# In-Peer Review
-
-#### 1.  (Under Review---IEEE Transactions on Circuits and Systems for Video Technology)
-
-#### 2. A New Paper About Image Fusion (Under Review---IEEE Transactions on Image Processing)
-
 
 # Technical Report
 
