@@ -12,7 +12,7 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for International Journals：IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences
+Reviewer for International Journals：IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences
 
 Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
