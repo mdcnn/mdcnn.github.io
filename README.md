@@ -35,6 +35,13 @@ Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International 
 
 # Publication
 
+#### @article{zhao2020[[PDF]](https://www.sciencedirect.com/),
+  title={Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets},
+  author={Zhang, Jinjing and Zeng, Jianchao and Qin, Pinle and Zhao, Lijun},
+  journal={Neurocomputing},
+  year={2020}
+}
+
 #### @article{zhao2019multiple[[PDF]](https://ieeexplore.ieee.org/document/8445655)[[Project]](https://github.com/mdcnn/MDCNN_test40),
   title={Multiple description convolutional neural networks for image compression},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
