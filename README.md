@@ -16,6 +16,13 @@ Reviewer for International Journals：IEEE Transactions on Wireless Communicatio
 
 Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
+# Under Review
+
+#### One New Paper About Single Depth Image Super-Resolution （which is Submitted to ICME2021）.
+
+#### One New Paper About Low-Light Image Enhancement （which is Submitted to IEEE Trans. CSVT）. 
+
+#### One New Paper About Medical Image Segmentation（which is Submitted to IEEE Journal of Biomedical and Health Informatics）. 
 
 # Technical Report
 
