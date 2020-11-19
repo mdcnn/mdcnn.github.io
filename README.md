@@ -20,7 +20,7 @@ Reviewer for International Conferences：IEEE ICME2020, IEEE 21st International 
 
 #### One New Paper About Single Depth Image Super-Resolution （which is Submitted to ICME2021）.
 
-#### One New Paper About Low-Light Image Enhancement （which is Submitted to IEEE Trans. CSVT）. 
+#### One New Paper About Low-Light Image Enhancement （which is Submitted to IEEE Trans. on CSVT）. 
 
 #### One New Paper About Medical Image Segmentation（which is Submitted to IEEE Journal of Biomedical and Health Informatics）. 
 
