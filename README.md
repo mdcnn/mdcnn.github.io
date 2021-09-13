@@ -53,7 +53,7 @@ Reviewer for International Conferences：IEEE ICME2021, IEEE ICME2020, IEEE 21st
   year={2021},
   publisher={Elsevier}
 }
-#### @article{zhao2020SEG[[PDF]](https://www.sciencedirect.com/),
+#### @article{zhang2020brain[[PDF]](https://www.sciencedirect.com/),
   title={Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets},
   author={Zhang, Jinjing and Zeng, Jianchao and Qin, Pinle and Zhao, Lijun},
   journal={Neurocomputing},
