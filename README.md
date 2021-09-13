@@ -36,7 +36,7 @@ Reviewer for International Conferences：IEEE ICME2021, IEEE ICME2020, IEEE 21st
 
 # Publication
 
-#### @inproceedings{zhao2021DepthSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8019331/),
+#### @inproceedings{zhao2021DepthSR,
   title={From Deep Image Decomposition to Single Depth Image Super-Resolution},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, and Yao Zhao},
   booktitle={Image and Graphics Technologies and Applications},
