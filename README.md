@@ -12,30 +12,22 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for International Journals：IEEE Transactions on Wireless Communication, Pattern Recognition, Machine Learning (Springer), IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences
+Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, 
+
+Reviewer for International Other Journals：Pattern Recognition, Machine Learning (Springer), IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences
 
 Reviewer for International Conferences：IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
-# Under Review
-
-#### One New Paper About Single Depth Image Super-Resolution
-
-#### One New Paper About Low-Light Image Enhancement 
-
-#### One New Paper About MDC 
-
-#### One New Paper About Medical Image Segmentation
-
 # Technical Report
 
-#### @article{zhao2020concurrent[[PDF]](https://arxiv.org/abs/2001.03847)[[Project]](https://github.com/mdcnn/CEIN),
+#### @article{zhao2020Concurrent[[PDF]](https://arxiv.org/abs/2001.03847)[[Project]](https://github.com/mdcnn/CEIN),
   title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
   author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
   journal={arXiv preprint arXiv:2001.03847},
   year={2020}
 }
 
-#### @article{zhao2020concurrent[[PDF]](https://arxiv.org/pdf/2001.03851.pdf)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+#### @article{zhao2020MDC[[PDF]](https://arxiv.org/pdf/2001.03851.pdf)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
   title={Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning},
   author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao},
   journal={arXiv:2001.03851.},
@@ -44,7 +36,24 @@ Reviewer for International Conferences：IEEE ICME2021, IEEE ICME2020, IEEE 21st
 
 # Publication
 
-#### @article{zhao2020[[PDF]](https://www.sciencedirect.com/),
+#### @inproceedings{zhao2021DepthSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8019331/),
+  title={From Deep Image Decomposition to Single Depth Image Super-Resolution},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, and Yao Zhao},
+  booktitle={Image and Graphics Technologies and Applications},
+  year={2021},
+  organization={Springer}
+}
+
+#### @article{ning2021mranet,
+  title={MRANet: Multi-atrous residual attention Network for stereo image super-resolution},
+  author={Ning, Luyao and Wang, Anhong and Zhao, Lijun and Xue, Weimin and Bu, Donghan},
+  journal={Journal of Visual Communication and Image Representation},
+  volume={77},
+  pages={103115},
+  year={2021},
+  publisher={Elsevier}
+}
+#### @article{zhao2020SEG[[PDF]](https://www.sciencedirect.com/),
   title={Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets},
   author={Zhang, Jinjing and Zeng, Jianchao and Qin, Pinle and Zhao, Lijun},
   journal={Neurocomputing},
@@ -166,7 +175,7 @@ Reviewer for International Conferences：IEEE ICME2021, IEEE ICME2020, IEEE 21st
 #### @article{zhao2015scalable[[PDF]](http://www.kpubs.org/article/articleDownload.kpubs?downType=pdf&articleANo=E1KOBZ_2015_v9n10_4108),
   title={Scalable coding of depth images with synthesis-guided edge detection},
   author={Zhao, Lijun and Wang, Anhong and Zeng, Bing and Jin, Jian},
-  journal={Ksii Transactions on Internet and Information Systems},
+  journal={KSII Transactions on Internet and Information Systems},
   volume={9},
   number={10},
   year={2015}
