@@ -27,7 +27,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   year={2020}
 }
 
-#### @article{zhao2020MDC[[PDF]](https://arxiv.org/pdf/2001.03851.pdf)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+#### @article{zhao2020MDC[[PDF]]()[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
   title={Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning},
   author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao},
   journal={arXiv:2001.03851.},
@@ -35,6 +35,15 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 }
 
 # Publication
+
+#### @article{zhao2022LMDC[[Ver1]](https://arxiv.org/pdf/2001.03851.pdf)[[Ver2]](https://arxiv.org/pdf/2001.03851.pdf),
+  title={LMDC: Learning a Multiple Description Codec for Deep Learning-Based Image Compression},
+  author={Zhao, Lijun and Zhang, Jinjing and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  journal={Multimedia Tools and Applications},
+  pages={1--x},
+  year={2022},
+  publisher={Springer}
+}
 
 #### @inproceedings{zhao2021DepthSR,
   title={From Deep Image Decomposition to Single Depth Image Super-Resolution},
@@ -53,7 +62,8 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   year={2021},
   publisher={Elsevier}
 }
-#### @article{zhang2020brain[[PDF]](https://www.sciencedirect.com/),
+
+#### @article{zhang2020brain[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220314211),
   title={Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets},
   author={Zhang, Jinjing and Zeng, Jianchao and Qin, Pinle and Zhao, Lijun},
   journal={Neurocomputing},
