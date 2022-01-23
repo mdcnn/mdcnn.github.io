@@ -27,14 +27,17 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   year={2020}
 }
 
-#### @article{zhao2020MDC[[PDF]]()[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
-  title={Deep Optimized Multiple Description Image Coding via Scalar Quantization Learning},
-  author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao},
-  journal={arXiv:2001.03851.},
-  year={2020}
-}
-
 # Publication
+
+#### @article{ning2021mranet,
+  title={Deep MRI Glioma Segmentation Via Multiple Guidances and Hybrid Enhanced-Gradient Cross-Entropy Loss},
+  author={Zhang, Jinjing and Zhao, Lijun and Zeng, Jianchap and Qin, Pinle and Wang， Yanbo and Yu, Xiaoqing},
+  journal={Expert Systems With Applications},
+  volume={xx},
+  pages={xx},
+  year={2022},
+  publisher={Elsevier}
+}
 
 #### @article{zhao2022LMDC[[Ver1]](https://arxiv.org/pdf/2001.03851.pdf)[[Ver2]](https://arxiv.org/pdf/2001.03851.pdf),
   title={LMDC: Learning a Multiple Description Codec for Deep Learning-Based Image Compression},
