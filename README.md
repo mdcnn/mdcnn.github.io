@@ -31,7 +31,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 
 #### @article{jing2022ESWA,
   title={Deep MRI Glioma Segmentation Via Multiple Guidances and Hybrid Enhanced-Gradient Cross-Entropy Loss},
-  author={Zhang, Jinjing and Zhao, Lijun and Zeng, Jianchao and Qin, Pinle and Wang， Yanbo and Yu, Xiaoqing},
+  author={Zhang, Jinjing and Zhao, Lijun and Zeng, Jianchao and Qin, Pinle and Wang, Yanbo and Yu, Xiaoqing},
   journal={Expert Systems With Applications},
   volume={xx},
   pages={xx},
