@@ -4,8 +4,6 @@
 
 He is now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
-Email: leejun@tyust.edu.cn
-
 Researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
 Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
