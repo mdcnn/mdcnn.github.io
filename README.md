@@ -16,35 +16,38 @@ Reviewer for International Other Journals：Expert Systems with Applications, Pa
 
 Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
 
-# Technical Report
+# Publication 2022
 
-#### @article{zhao2020Concurrent[[PDF]](https://arxiv.org/abs/2001.03847)[[Project]](https://github.com/mdcnn/CEIN),
-  title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
-  author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
-  journal={arXiv preprint arXiv:2001.03847},
-  year={2020}
+#### @article{zhao2022MDC-IE,
+  title={Multiple Description Coding Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
+  author={Zhao, Lijun and Cao, Congying and Zhang, Jinjing and Bai, Huihui and Zhao, Yao and Wang, Anhong},
+  journal={Application Research of Computers},
+  pages={1--x},
+  year={2022},
+  publisher={CNKI}
 }
 
-# Publication
+#### @article{zhao2022LMDC,
+  title={LMDC: Learning a Multiple Description Codec for Deep Learning-Based Image Compression},
+  author={Zhao, Lijun and Zhang, Jinjing and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  journal={Multimedia Tools and Applications},
+  volume={81},
+  pages={13889–13910,
+  year={2022},
+  publisher={Springer}
+}
 
 #### @article{jing2022ESWA,
   title={Deep MRI Glioma Segmentation Via Multiple Guidances and Hybrid Enhanced-Gradient Cross-Entropy Loss},
   author={Zhang, Jinjing and Zhao, Lijun and Zeng, Jianchao and Qin, Pinle and Wang, Yanbo and Yu, Xiaoqing},
   journal={Expert Systems With Applications},
-  volume={xx},
-  pages={xx},
+  volume={196},
+  pages={116608},
   year={2022},
   publisher={Elsevier}
 }
 
-#### @article{zhao2022LMDC[[Ver1]](https://arxiv.org/pdf/2001.03851.pdf)[[Ver2]](https://arxiv.org/pdf/2001.03851.pdf),
-  title={LMDC: Learning a Multiple Description Codec for Deep Learning-Based Image Compression},
-  author={Zhao, Lijun and Zhang, Jinjing and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={Multimedia Tools and Applications},
-  pages={1--x},
-  year={2022},
-  publisher={Springer}
-}
+# Publication 2021
 
 #### @inproceedings{zhao2021DepthSR,
   title={From Deep Image Decomposition to Single Depth Image Super-Resolution},
@@ -64,12 +67,25 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   publisher={Elsevier}
 }
 
+# Publication 2020
+
+
+#### @article{zhao2020Concurrent[[PDF]](https://arxiv.org/abs/2001.03847)[[Project]](https://github.com/mdcnn/CEIN),
+  title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
+  author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
+  journal={arXiv preprint arXiv:2001.03847},
+  year={2020}
+}
+
+
 #### @article{zhang2020brain[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220314211),
   title={Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets},
   author={Zhang, Jinjing and Zeng, Jianchao and Qin, Pinle and Zhao, Lijun},
   journal={Neurocomputing},
   year={2020}
 }
+
+# Publication 2019
 
 #### @article{zhao2019multiple[[PDF]](https://ieeexplore.ieee.org/document/8445655)[[Project]](https://github.com/mdcnn/MDCNN_test40),
   title={Multiple description convolutional neural networks for image compression},
@@ -105,6 +121,31 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   publisher={Elsevier}
 }
 
+#### @inproceedings{zhao2019dmdc[[PDF]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
+  title={Deep multiple description coding by learning scalar quantization}, 
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
+  booktitle={Data Compression Conference}, 
+  year={2019}, 
+  organization={IEEE} }
+  
+# Publication 2018
+
+#### @article{zhao2018virtual[[PDF]](http://arxiv.org/abs/1806.08514),
+  title={Virtual codec supervised re-sampling network for image compression},
+  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  journal={arXiv preprint arXiv:1806.08514},
+  year={2018}
+}
+
+#### @article{wang2018cascaded[[PDF]](http://link.springer.com/article/10.1186/s13640-018-0315-5),
+  title={Cascaded reconstruction network for compressive image sensing},
+  author={Wang, Yahan and Bai, Huihui and Zhao, Lijun and Zhao, Yao},
+  journal={EURASIP Journal on Image and Video Processing},
+  year={2018}
+}
+
+# Publication 2017
+
 #### @article{zhao2017two[[PDF]](https://www.sciencedirect.com/science/article/pii/S0923596517300255)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Two-stage filtering of compressed depth images with Markov Random Field},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao and Zeng, Bing},
@@ -124,13 +165,6 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   publisher={Springer}
 }
 
-#### @inproceedings{zhao2019dmdc[[PDF]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
-  title={Deep multiple description coding by learning scalar quantization}, 
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
-  booktitle={Data Compression Conference}, 
-  year={2019}, 
-  organization={IEEE} }
-  
 #### @inproceedings{zhao2017single[[PDF]](https://ieeexplore.ieee.org/abstract/document/8019331/),
   title={Single depth image super-resolution with multiple residual dictionary learning and refinement},
   author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Zhao, Yao},
@@ -149,6 +183,8 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   organization={IEEE}
 }
 
+# Publication 2016
+
 #### @inproceedings{zhao2016joint[[PDF]](http://ieeexplore.ieee.org/document/7805457/),
   title={Joint iterative guidance filtering for compressed depth images},
   author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
@@ -158,19 +194,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   organization={IEEE}
 }
 
-#### @article{zhao2018virtual[[PDF]](http://arxiv.org/abs/1806.08514),
-  title={Virtual codec supervised re-sampling network for image compression},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
-  journal={arXiv preprint arXiv:1806.08514},
-  year={2018}
-}
-
-#### @article{wang2017cascaded[[PDF]](http://link.springer.com/article/10.1186/s13640-018-0315-5),
-  title={Cascaded reconstruction network for compressive image sensing},
-  author={Wang, Yahan and Bai, Huihui and Zhao, Lijun and Zhao, Yao},
-  journal={EURASIP Journal on Image and Video Processing},
-  year={2018}
-}
+# Publication 2015
 
 #### @article{zhao2015candidate[[PDF]](https://www.researchgate.net/publication/273395477_Candidate_value-based_boundary_filtering_for_compressed_depth_images)[[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement),
   title={Candidate value-based boundary filtering for compressed depth images},
