@@ -10,15 +10,15 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access, 
+Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access.
 
-Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing
+Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing.
 
-Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019
+Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
 # Publication 2022
 #### @inproceedings{zhao2022MDC-Transformer,
-  title={{Multiple Description Coding Image Enhancement Method With CNN and Transformer},
+  title={{Multiple Description Coding Image Enhancement Method Based on CNN and Transformer},
   author={Cao, Congying and Zhao, Lijun and Zhang, Jinjing and Wang, Xinlu and Wang, Anhong},
   booktitle={IEEE MIPR},
   year={2022},
