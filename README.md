@@ -18,7 +18,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 
 # Publication 2022
 #### @inproceedings{zhao2022MDC-Transformer,
-  title={{Multiple Description Coded-Image Enhancement Method Based on CNN and Transformer},
+  title={{Image Enhancement Method for MDC Based on CNN and Transformer},
   author={Cao, Congying and Zhao, Lijun and Zhang, Jinjing and Wang, Xinlu and Wang, Anhong},
   booktitle={IEEE MIPR},
   year={2022},
@@ -26,7 +26,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 }
 
 #### @article{zhao2022MDC-IE,
-  title={Multiple Description Coded-Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
+  title={Multiple Description Coding Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
   author={Zhao, Lijun and Cao, Congying and Zhang, Jinjing and Bai, Huihui and Zhao, Yao and Wang, Anhong},
   journal={Application Research of Computers},
   pages={1--x},
