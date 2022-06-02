@@ -17,13 +17,6 @@ Reviewer for International Other Journals：Expert Systems with Applications, Pa
 Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
 # Publication 2022
-#### @inproceedings{zhao2022MDC-Transformer,
-  title={{Image Enhancement Method for MDC Based on CNN and Transformer},
-  author={Cao, Congying and Zhao, Lijun and Zhang, Jinjing and Wang, Xinlu and Wang, Anhong},
-  booktitle={IEEE MIPR},
-  year={2022},
-  organization={IEEE}
-}
 
 #### @article{zhao2022MDC-IE,
   title={Multiple Description Coding Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
