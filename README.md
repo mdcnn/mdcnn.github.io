@@ -18,8 +18,17 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 
 # Publication 2022
 
+#### @inproceedings{zhao2022D2-UTransformer,
+  title={D2-UTransformer: Deep Modulated Dual-UTransformer for Multiple
+Description Image Enhancement},
+  author={Congying Cao, Lijun Zhao, Jinjing Zhang, Xinlu Wang, and Anhong Wang},
+  booktitle={IEEE 5th International Conference on Multimedia Information Processing and Retrieval},
+  year={2022},
+  organization={IEEE}
+}
+
 #### @article{zhao2022MDC-IE,
-  title={Multiple Description Coding Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
+  title={Multiple Description Coded Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
   author={Zhao, Lijun and Cao, Congying and Zhang, Jinjing and Bai, Huihui and Zhao, Yao and Wang, Anhong},
   journal={Application Research of Computers},
   pages={1--x},
