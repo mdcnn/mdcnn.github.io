@@ -18,7 +18,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 
 # Publication 2022
 
-#### @inproceedings{zhao2022SDMD,
+#### @article{zhao2022SDMD,
   title={Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
   booktitle={JOURNAL OF BEIJING JIAOTONG UNIVERSITY},
@@ -26,7 +26,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
   organization={CNKI}
 }
 
-#### @inproceedings{zhao2022D2-UTransformer,
+#### @article{zhao2022D2-UTransformer,
   title={D2-UTransformer: Deep Modulated Dual-UTransformer for Multiple
 Description Image Enhancement},
   author={Congying Cao, Lijun Zhao, Jinjing Zhang, Xinlu Wang, and Anhong Wang},
