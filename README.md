@@ -18,6 +18,16 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 
 # Publication 2022
 
+#### @article{Zhao2022FLFuse,
+  title={FLFuse-Net: A fast and lightweight infrared and visible image fusion network via feature flow and edge compensation for salient information},
+  author={Xue, Weimin, Wang, Anhong, Zhao, Lijun},
+  journal={Infrared Physics and Technology},
+  volume={XX},
+  pages={XX},
+  year={2022},
+  publisher={Elsevier}
+}
+
 #### @article{zhao2022SDMD,
   title={Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
@@ -39,7 +49,7 @@ Description Image Enhancement},
   title={Multiple Description Coded Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
   author={Zhao, Lijun and Cao, Congying and Zhang, Jinjing and Bai, Huihui and Zhao, Yao and Wang, Anhong},
   journal={Application Research of Computers},
-  pages={1--x},
+  pages={2873-2880},
   year={2022},
   publisher={CNKI}
 }
