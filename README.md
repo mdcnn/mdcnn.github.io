@@ -22,8 +22,8 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2022, IEEE IC
   title={FLFuse-Net: A fast and lightweight infrared and visible image fusion network via feature flow and edge compensation for salient information},
   author={Weimin Xue, Anhong Wang, Lijun Zhao},
   journal={Infrared Physics and Technology},
-  volume={XX},
-  pages={XX},
+  volume={127},
+  pages={104383},
   year={2022},
   publisher={Elsevier}
 }
@@ -64,7 +64,7 @@ Description Image Enhancement},
   publisher={Springer}
 }
 
-@inproceedings{zhang2022sf,
+#### @inproceedings{zhang2022sf,
   title={SF-SegFormer: Stepped-Fusion Segmentation Transformer for Brain Tissue Image via Inter-Group Correlation and Enhanced Multi-layer Perceptron},
   author={Jinjing Zhang, Lijun Zhao, Jianchao Zeng, Pinle Qin},
   booktitle={Annual Conference on Medical Image Understanding and Analysis},
