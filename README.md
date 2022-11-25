@@ -14,13 +14,13 @@ Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communi
 
 Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing.
 
-Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
+Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
 # Publication 2022
 
 #### @article{Zhao2022FLFuse,
   title={FLFuse-Net: A fast and lightweight infrared and visible image fusion network via feature flow and edge compensation for salient information},
-  author={Xue, Weimin, Wang, Anhong, Zhao, Lijun},
+  author={Weimin Xue, Anhong Wang, Lijun Zhao},
   journal={Infrared Physics and Technology},
   volume={XX},
   pages={XX},
@@ -39,7 +39,7 @@ Reviewer for International Conferences：IEEE ICME2022, IEEE ICME2021, IEEE ICME
 #### @article{zhao2022D2-UTransformer,
   title={D2-UTransformer: Deep Modulated Dual-UTransformer for Multiple
 Description Image Enhancement},
-  author={Congying Cao, Lijun Zhao, Jinjing Zhang, Xinlu Wang, and Anhong Wang},
+  author={Congying Cao, Lijun Zhao, Jinjing Zhang, Xinlu Wang, Anhong Wang},
   booktitle={IEEE 5th International Conference on Multimedia Information Processing and Retrieval},
   year={2022},
   organization={IEEE}
@@ -47,7 +47,7 @@ Description Image Enhancement},
 
 #### @article{zhao2022MDC-IE,
   title={Multiple Description Coded Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
-  author={Zhao, Lijun and Cao, Congying and Zhang, Jinjing and Bai, Huihui and Zhao, Yao and Wang, Anhong},
+  author={Lijun Zhao, Congying Cao, Jinjing Zhang, Huihui Bai, Yao Zhao, Anhong Wang, },
   journal={Application Research of Computers},
   pages={2873-2880},
   year={2022},
@@ -56,7 +56,7 @@ Description Image Enhancement},
 
 #### @article{zhao2022LMDC,
   title={LMDC: Learning a Multiple Description Codec for Deep Learning-Based Image Compression},
-  author={Zhao, Lijun and Zhang, Jinjing and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  author={Lijun Zhao, Jinjing Zhang, Huihui Bai, Anhong Wang, Yao Zhao},
   journal={Multimedia Tools and Applications},
   volume={81},
   pages={13889–13910,
@@ -66,7 +66,7 @@ Description Image Enhancement},
 
 #### @article{jing2022ESWA,
   title={Deep MRI Glioma Segmentation Via Multiple Guidances and Hybrid Enhanced-Gradient Cross-Entropy Loss},
-  author={Zhang, Jinjing and Zhao, Lijun and Zeng, Jianchao and Qin, Pinle and Wang, Yanbo and Yu, Xiaoqing},
+  author={Jinjing Zhang, Lijun Zhao, Jianchao Zeng, Pinle Qin, Yanbo Wang, Xiaoqing Yu},
   journal={Expert Systems With Applications},
   volume={196},
   pages={116608},
@@ -78,7 +78,7 @@ Description Image Enhancement},
 
 #### @inproceedings{zhao2021DepthSR,
   title={From Deep Image Decomposition to Single Depth Image Super-Resolution},
-  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, and Yao Zhao},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
   booktitle={Image and Graphics Technologies and Applications},
   year={2021},
   organization={Springer}
@@ -86,7 +86,7 @@ Description Image Enhancement},
 
 #### @article{ning2021mranet,
   title={MRANet: Multi-atrous residual attention Network for stereo image super-resolution},
-  author={Ning, Luyao and Wang, Anhong and Zhao, Lijun and Xue, Weimin and Bu, Donghan},
+  author={Luyao Ning, Anhong Wang, Lijun Zhao, Weimin Xue, Donghan Bu},
   journal={Journal of Visual Communication and Image Representation},
   volume={77},
   pages={103115},
@@ -107,7 +107,7 @@ Description Image Enhancement},
 
 #### @article{zhang2020brain[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220314211),
   title={Brain tumor segmentation of multi-modality MR images via triple intersecting U-Nets},
-  author={Zhang, Jinjing and Zeng, Jianchao and Qin, Pinle and Zhao, Lijun},
+  author={Jinjing Zhang, JianchaoZeng, Pinle Qin, Lijun Zhao},
   journal={Neurocomputing},
   year={2020}
 }
@@ -116,14 +116,14 @@ Description Image Enhancement},
 
 #### @article{zhao2019multiple[[PDF]](https://ieeexplore.ieee.org/document/8445655)[[Project]](https://github.com/mdcnn/MDCNN_test40),
   title={Multiple description convolutional neural networks for image compression},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2019}
 }
 
 #### @article{zhao2019simultaneous[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Project]](https://github.com/mdcnn/CDcGAN),
   title={Simultaneous color-depth super-resolution with conditional generative adversarial networks},
-  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Zeng, Bing and Wang, Anhong and Zhao, Yao},
+  author={Lijun Zhao, Huihui Bai, Jie Liang, Bing Zeng, Anhong Wang, Yao Zhao},
   journal={Pattern Recognition},
   volume={88},
   pages={356–369},
@@ -133,7 +133,7 @@ Description Image Enhancement},
 
 #### @article{zhao2019LAD[[PDF]](https://www.sciencedirect.com/science/article/pii/S0165168418303724)[[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering),
   title={Local activity-driven structural-preserving filtering for noise removal and image smoothing},
-  author={Zhao, Lijun and Bai, Huihui and Liang, Jie and Wang, Anhong and Bing, Zeng and Zhao, Yao},
+  author={Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao},
   journal={Signal Processing},
   volume={157},
   pages={62–72},
@@ -143,14 +143,14 @@ Description Image Enhancement},
 
 #### @article{zhao2019codec[[PDF]](https://www.sciencedirect.com/science/article/pii/S104732031930210X)[[Project]](https://github.com/mdcnn/Virtual_Codec_Network),
   title={Learning a virtual codec based on deep convolutional neural network to compress image},
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao},
+  author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao},
   journal={Journal of Visual Communication and Image Representation},
   publisher={Elsevier}
 }
 
 #### @inproceedings{zhao2019dmdc[[PDF]](https://arxiv.org/abs/1811.01504v3)[[Project]](https://github.com/mdcnn/Deep-Multiple-Description-Coding),
   title={Deep multiple description coding by learning scalar quantization}, 
-  author={Zhao, Lijun and Bai, Huihui and Wang, Anhong and Zhao, Yao}, 
+  author={Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao}, 
   booktitle={Data Compression Conference}, 
   year={2019}, 
   organization={IEEE} }
