@@ -64,6 +64,15 @@ Description Image Enhancement},
   publisher={Springer}
 }
 
+@inproceedings{zhang2022sf,
+  title={SF-SegFormer: Stepped-Fusion Segmentation Transformer for Brain Tissue Image via Inter-Group Correlation and Enhanced Multi-layer Perceptron},
+  author={Jinjing Zhang, Lijun Zhao, Jianchao Zeng, Pinle Qin},
+  booktitle={Annual Conference on Medical Image Understanding and Analysis},
+  pages={508--518},
+  year={2022},
+  organization={Springer}
+}
+
 #### @article{jing2022ESWA,
   title={Deep MRI Glioma Segmentation Via Multiple Guidances and Hybrid Enhanced-Gradient Cross-Entropy Loss},
   author={Jinjing Zhang, Lijun Zhao, Jianchao Zeng, Pinle Qin, Yanbo Wang, Xiaoqing Yu},
