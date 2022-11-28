@@ -12,9 +12,9 @@ Publons: https://publons.com/researcher/3002492/lijun-zhao
 
 Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access.
 
-Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing.
+Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), Signal Processing: Image Communication, IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing.
 
-Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
+Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
 # Publication 2022
 
@@ -28,8 +28,17 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2022, IEEE IC
   publisher={Elsevier}
 }
 
+#### @article{zhao2022DSR-Review,
+  title={A review of depth map super-resolution reconstruction research: The latest methods, applications, and challenges},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang},
+  journal={Application Research of Computers},
+  pages={xxxx-xxxx},
+  year={2023},
+  publisher={CNKI}
+}
+
 #### @article{zhao2022SDMD,
-  title={Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy},
+  title={Single depth map denoising method by combining high- and low-frequency decomposition and multi-scale two-level fusion strategy},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
   booktitle={JOURNAL OF BEIJING JIAOTONG UNIVERSITY},
   year={2022},
@@ -37,8 +46,7 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2022, IEEE IC
 }
 
 #### @article{zhao2022D2-UTransformer,
-  title={D2-UTransformer: Deep Modulated Dual-UTransformer for Multiple
-Description Image Enhancement},
+  title={D2-UTransformer: Deep modulated dual-UTransformer for multiple description image enhancement},
   author={Congying Cao, Lijun Zhao, Jinjing Zhang, Xinlu Wang, Anhong Wang},
   booktitle={IEEE 5th International Conference on Multimedia Information Processing and Retrieval},
   year={2022},
@@ -46,8 +54,8 @@ Description Image Enhancement},
 }
 
 #### @article{zhao2022MDC-IE,
-  title={Multiple Description Coded Image Enhancement Method With Joint Learning of Side- and Central-Decoding Features},
-  author={Lijun Zhao, Congying Cao, Jinjing Zhang, Huihui Bai, Yao Zhao, Anhong Wang, },
+  title={Multiple description coded image enhancement method with joint learning of side- and central-decoding features},
+  author={Lijun Zhao, Congying Cao, Jinjing Zhang, Huihui Bai, Yao Zhao, Anhong Wang},
   journal={Application Research of Computers},
   pages={2873-2880},
   year={2022},
@@ -55,7 +63,7 @@ Description Image Enhancement},
 }
 
 #### @article{zhao2022LMDC,
-  title={LMDC: Learning a Multiple Description Codec for Deep Learning-Based Image Compression},
+  title={LMDC: Learning a multiple description codec for deep learning-based image compression},
   author={Lijun Zhao, Jinjing Zhang, Huihui Bai, Anhong Wang, Yao Zhao},
   journal={Multimedia Tools and Applications},
   volume={81},
@@ -65,7 +73,7 @@ Description Image Enhancement},
 }
 
 #### @inproceedings{zhang2022sf,
-  title={SF-SegFormer: Stepped-Fusion Segmentation Transformer for Brain Tissue Image via Inter-Group Correlation and Enhanced Multi-layer Perceptron},
+  title={SF-SegFormer: Stepped-fusion segmentation transformer for brain tissue image via inter-group correlation and enhanced multi-layer perceptron},
   author={Jinjing Zhang, Lijun Zhao, Jianchao Zeng, Pinle Qin},
   booktitle={Annual Conference on Medical Image Understanding and Analysis},
   pages={508--518},
@@ -74,7 +82,7 @@ Description Image Enhancement},
 }
 
 #### @article{jing2022ESWA,
-  title={Deep MRI Glioma Segmentation Via Multiple Guidances and Hybrid Enhanced-Gradient Cross-Entropy Loss},
+  title={Deep MRI glioma segmentation via multiple guidances and hybrid enhanced-gradient cross-entropy loss},
   author={Jinjing Zhang, Lijun Zhao, Jianchao Zeng, Pinle Qin, Yanbo Wang, Xiaoqing Yu},
   journal={Expert Systems With Applications},
   volume={196},
@@ -86,7 +94,7 @@ Description Image Enhancement},
 # Publication 2021
 
 #### @inproceedings{zhao2021DepthSR,
-  title={From Deep Image Decomposition to Single Depth Image Super-Resolution},
+  title={From deep image decomposition to single depth image super-resolution},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
   booktitle={Image and Graphics Technologies and Applications},
   year={2021},
@@ -107,7 +115,7 @@ Description Image Enhancement},
 
 
 #### @article{zhao2020Concurrent[[PDF]](https://arxiv.org/abs/2001.03847)[[Project]](https://github.com/mdcnn/CEIN),
-  title={Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation},
+  title={Concurrently extrapolating and interpolating networks for continuous model generation},
   author={Lijun Zhao, Jinjing Zhang, Fan Zhang, Anhong Wang, Huihui Bai, Yao Zhao},
   journal={arXiv preprint arXiv:2001.03847},
   year={2020}
@@ -251,5 +259,3 @@ Description Image Enhancement},
   number={10},
   year={2015}
 }
-
-
