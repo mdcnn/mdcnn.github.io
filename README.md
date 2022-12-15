@@ -16,6 +16,35 @@ Reviewer for International Other Journals：Expert Systems with Applications, Pa
 
 Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
+# Publication 2023
+      
+#### @article{Zhao2023JGF,
+  title={Joint depth map super-resolution method via deep hybrid-cross guidance filter},
+  author={Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai},
+  journal={Pattern Recognition},
+  volume={XX},
+  pages={XX},
+  year={2023},
+  publisher={Elsevier}
+}
+
+#### @article{zhao2023SDMD,
+  title={Single depth map denoising method by combining high- and low-frequency decomposition and multi-scale two-level fusion strategy},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
+  booktitle={JOURNAL OF BEIJING JIAOTONG UNIVERSITY},
+  year={2023},
+  organization={CNKI}
+}
+
+#### @article{zhao2023DSR-Review,
+  title={A review of depth map super-resolution reconstruction research: The latest methods, applications, and challenges},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang},
+  journal={Application Research of Computers},
+  pages={xxxx-xxxx},
+  year={2023},
+  publisher={CNKI}
+}
+
 # Publication 2022
 
 #### @article{Zhao2022FLFuse,
@@ -26,23 +55,6 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   pages={104383},
   year={2022},
   publisher={Elsevier}
-}
-
-#### @article{zhao2022DSR-Review,
-  title={A review of depth map super-resolution reconstruction research: The latest methods, applications, and challenges},
-  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang},
-  journal={Application Research of Computers},
-  pages={xxxx-xxxx},
-  year={2023},
-  publisher={CNKI}
-}
-
-#### @article{zhao2022SDMD,
-  title={Single depth map denoising method by combining high- and low-frequency decomposition and multi-scale two-level fusion strategy},
-  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
-  booktitle={JOURNAL OF BEIJING JIAOTONG UNIVERSITY},
-  year={2022},
-  organization={CNKI}
 }
 
 #### @article{zhao2022D2-UTransformer,
