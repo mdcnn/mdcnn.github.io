@@ -2,7 +2,7 @@
 
 # Lijun Zhao
 
-He is now a lecturer in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
+He is now a researcher in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
 Researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
@@ -12,7 +12,7 @@ Publons: https://publons.com/researcher/3002492/lijun-zhao
 
 Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access.
 
-Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), Signal Processing: Image Communication, IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing.
+Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), Signal Processing: Image Communication, ISA Transactions, IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing, IET Generation, Transmission & Distribution.
 
 Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
