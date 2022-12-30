@@ -2,7 +2,7 @@
 
 # Lijun Zhao
 
-He is now a researcher in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
+He is now an associate professor in the Institute of Digital Media and Communication, Taiyuan University of Science and Technology, China.
 
 Researchgate: https://www.researchgate.net/profile/Lijun_Zhao13
 
@@ -17,6 +17,16 @@ Reviewer for International Other Journals：Expert Systems with Applications, Pa
 Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
 # Publication 2023
+
+#### @article{Zhao2023DTSD,
+  title={Learning deep texture-structure decomposition for low-light image restoration and enhancement},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Anhong Wang, Huihui Bai},
+  journal={Neurocomputing},
+  volume={XX},
+  pages={XX},
+  year={2023},
+  publisher={Elsevier}
+}
       
 #### @article{Zhao2023JGF,
   title={Joint depth map super-resolution method via deep hybrid-cross guidance filter},
