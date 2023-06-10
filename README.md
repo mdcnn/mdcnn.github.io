@@ -37,16 +37,6 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   year={2023},
   publisher={Elsevier}
 }
-
-#### @article{Zhao2023DTSD,
-  title={Learning deep texture-structure decomposition for low-light image restoration and enhancement},
-  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Anhong Wang, Huihui Bai},
-  journal={Neurocomputing},
-  volume={524},
-  pages={126-141},
-  year={2023},
-  publisher={Elsevier}
-}
       
 #### @article{Zhao2023JGF,
   title={Joint depth map super-resolution method via deep hybrid-cross guidance filter},
