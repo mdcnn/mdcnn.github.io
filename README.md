@@ -10,20 +10,40 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for International IEEE Journals：IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Access.
+Reviewer for International IEEE Journals：IEEE Transactions on Visualization and Computer Graphics, IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Consumer Electronics, IEEE Access.
 
-Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), Signal Processing: Image Communication, ISA Transactions, IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing, IET Generation, Transmission & Distribution.
+Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), Signal Processing: Image Communication, ISA Transactions, IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing, International Journal of Electrical Power and Energy Systems, Biomedical Signal Processing and Control, IET Generation, Transmission & Distribution.
 
 Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
 
 # Publication 2023
 
+#### @article{Zhao2023EGINet,
+  title={Boundary-constrained interpretable image reconstruction network for deep compressive sensing},
+  author={Lijun Zhao, Xinlu Wang, Jinjing Zhang, Anhong Wang, Huihui Bai},
+  journal={Knowledge-Based Systems},
+  volume={xx},
+  pages={xx-xx},
+  year={2023},
+  publisher={Elsevier}
+}
+
 #### @article{Zhao2023DTSD,
   title={Learning deep texture-structure decomposition for low-light image restoration and enhancement},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Anhong Wang, Huihui Bai},
   journal={Neurocomputing},
-  volume={XX},
-  pages={XX},
+  volume={524},
+  pages={126-141},
+  year={2023},
+  publisher={Elsevier}
+}
+
+#### @article{Zhao2023DTSD,
+  title={Learning deep texture-structure decomposition for low-light image restoration and enhancement},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Anhong Wang, Huihui Bai},
+  journal={Neurocomputing},
+  volume={524},
+  pages={126-141},
   year={2023},
   publisher={Elsevier}
 }
@@ -32,18 +52,10 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   title={Joint depth map super-resolution method via deep hybrid-cross guidance filter},
   author={Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai},
   journal={Pattern Recognition},
-  volume={XX},
-  pages={XX},
+  volume={136},
+  pages={109260-109273},
   year={2023},
   publisher={Elsevier}
-}
-
-#### @article{zhao2023SDMD,
-  title={Single depth map denoising method by combining high- and low-frequency decomposition and multi-scale two-level fusion strategy},
-  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
-  booktitle={JOURNAL OF BEIJING JIAOTONG UNIVERSITY},
-  year={2023},
-  organization={CNKI}
 }
 
 #### @article{zhao2023DSR-Review,
@@ -56,6 +68,14 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
 }
 
 # Publication 2022
+
+#### @article{zhao2022SDMD,
+  title={Single depth map denoising method by combining high- and low-frequency decomposition and multi-scale two-level fusion strategy},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao},
+  booktitle={JOURNAL OF BEIJING JIAOTONG UNIVERSITY},
+  year={2022},
+  organization={CNKI}
+}
 
 #### @article{Zhao2022FLFuse,
   title={FLFuse-Net: A fast and lightweight infrared and visible image fusion network via feature flow and edge compensation for salient information},
