@@ -22,8 +22,8 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   title={Boundary-constrained interpretable image reconstruction network for deep compressive sensing},
   author={Lijun Zhao, Xinlu Wang, Jinjing Zhang, Anhong Wang, Huihui Bai},
   journal={Knowledge-Based Systems},
-  volume={xx},
-  pages={xx-xx},
+  volume={275},
+  pages={110681-110697},
   year={2023},
   publisher={Elsevier}
 }
@@ -48,11 +48,19 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   publisher={Elsevier}
 }
 
+#### @article{zhao2023ICIG,
+  title={Edge-Guided Interpretable Neural Network for Image Compressive Sensing Reconstruction},
+  author={Xinlu Wang and Lijun Zhao and Jinjing Zhang and and Anhong Wang},
+  booktitle={International Conference on Image and Graphics, ICIG},
+  year={2023},
+  organization={Springer}
+}
+
 #### @article{zhao2023DSR-Review,
   title={A review of depth map super-resolution reconstruction research: The latest methods, applications, and challenges},
   author={Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang},
   journal={Application Research of Computers},
-  pages={xxxx-xxxx},
+  pages={1621-1629},
   year={2023},
   publisher={CNKI}
 }
