@@ -67,7 +67,7 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
 }
 
 #### @article{zhao2023ICME,
-  title={Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution},
+  title={Explainable unfolding network for joint edge-preserving depth map super-resolution},
   author={Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang},
   booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)},
   year={2023},
@@ -75,7 +75,7 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
 }
 
 #### @article{zhao2023ICIG,
-  title={Edge-Guided Interpretable Neural Network for Image Compressive Sensing Reconstruction},
+  title={Edge-guided interpretable neural network for image compressive sensing reconstruction},
   author={Xinlu Wang and Lijun Zhao and Jinjing Zhang and and Anhong Wang},
   booktitle={International Conference on Image and Graphics (ICIG)},
   year={2023},
