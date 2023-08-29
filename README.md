@@ -48,12 +48,13 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   publisher={Elsevier}
 }
 
-#### @article{zhao2023ICIG,
-  title={Edge-Guided Interpretable Neural Network for Image Compressive Sensing Reconstruction},
-  author={Xinlu Wang and Lijun Zhao and Jinjing Zhang and and Anhong Wang},
-  booktitle={International Conference on Image and Graphics, ICIG},
+#### @article{zhao2023Artifact-Review,
+  title={A survey of research on compressed image enhancement methods},
+  author={Lijun Zhao, Congying Cao, Jinjing Zhang, Jie Zhao, Bingtao Chen, Anhong Wang},
+  journal={Computer Engineering and Applications},
+  pages={xxxx-xxxx},
   year={2023},
-  organization={Springer}
+  publisher={CNKI}
 }
 
 #### @article{zhao2023DSR-Review,
@@ -63,6 +64,22 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   pages={1621-1629},
   year={2023},
   publisher={CNKI}
+}
+
+#### @article{zhao2023ICME,
+  title={Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution},
+  author={Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang},
+  booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)},
+  year={2023},
+  organization={IEEE}
+}
+
+#### @article{zhao2023ICIG,
+  title={Edge-Guided Interpretable Neural Network for Image Compressive Sensing Reconstruction},
+  author={Xinlu Wang and Lijun Zhao and Jinjing Zhang and and Anhong Wang},
+  booktitle={International Conference on Image and Graphics (ICIG)},
+  year={2023},
+  organization={Springer}
 }
 
 # Publication 2022
