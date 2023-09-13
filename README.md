@@ -65,6 +65,14 @@ Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE IC
   year={2023},
   publisher={CNKI}
 }
+  
+#### @article{zhao2023ICIP,
+  title={A Joint Model-Driven Unfolding Network for Degraded Low-Quality Color-Depth Images Enhancement},
+  author={Lijun Zhao, Ke Wang, Jinjing Zhang, Jie Zhao, Anhong Wang},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  year={2023},
+  organization={IEEE}
+}
 
 #### @article{zhao2023ICME,
   title={Explainable unfolding network for joint edge-preserving depth map super-resolution},
