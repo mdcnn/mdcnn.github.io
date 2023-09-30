@@ -10,11 +10,14 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for International IEEE Journals：IEEE Transactions on Visualization and Computer Graphics, IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Consumer Electronics, IEEE Access.
+Reviewer for IEEE Journals：IEEE Transactions on Visualization and Computer Graphics, IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Consumer Electronics.
 
-Reviewer for International Other Journals：Expert Systems with Applications, Pattern Recognition, Machine Learning (Springer), Signal Processing: Image Communication, ISA Transactions, IET Communications, IET Image Processing, Jordanian Journal of Computers and Information Technology, Journal of King Saud University - Computer and Information Sciences, Signal, Image and Video Processing, International Journal of Electrical Power and Energy Systems, Biomedical Signal Processing and Control, IET Generation, Transmission & Distribution.
+Reviewer for Elsevier Journals：Expert Systems with Applications, Pattern Recognition, Biomedical Signal Processing and Control, Computer Vision and Image Understanding, Signal Processing: Image Communication, Journal of King Saud University - Computer and Information Sciences, Measurement, International Journal of Electrical Power and Energy Systems
 
-Reviewer for International Conferences：IEEE ICASSP2023, IEEE ICME2023, IEEE ICME2022, IEEE ICME2021, IEEE ICME2020, IEEE 21st International Workshop on Multimedia Signal Processing 2019, VCIP: Visual Communications and Image Processing 2017, VCIP: Visual Communications and Image Processing 2019, International Conference on Image and Graphics 2019.
+
+Reviewer for Other Journals：Machine Learning, ISA Transactions, Jordanian Journal of Computers and Information Technology, Signal, Image and Video Processing, IET Communications, IET Image Processing, IET Generation, Transmission & Distribution.
+
+Reviewer for International Conferences：IEEE ICASSP 2024, IEEE ICASSP 2023, IEEE ICME 2023, IEEE ICME 2022, IEEE ICME 2021, IEEE ICME 2020, VCIP 2017, VCIP 2019, ICIG 2019.
 
 # Publication 2023
 
