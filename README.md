@@ -10,14 +10,14 @@ Linkedin: https://www.linkedin.com/in/%E5%88%A9%E5%86%9B-%E8%B5%B5-80361bb0/
 
 Publons: https://publons.com/researcher/3002492/lijun-zhao
 
-Reviewer for IEEE Journals：IEEE Transactions on Visualization and Computer Graphics, IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Consumer Electronics.
+Reviewer for IEEE Journals：IEEE Transactions on Visualization and Computer Graphics, IEEE Transactions on Wireless Communication, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Industrial Informatics, IEEE Transactions on Image Processing, IEEE Transactions on Broadcasting, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Computational Imaging, IEEE Transactions on Consumer Electronics, IEEE Transactions on Emerging Topics in Computational Intelligence.
 
 Reviewer for Elsevier Journals：Expert Systems with Applications, Pattern Recognition, Biomedical Signal Processing and Control, Computer Vision and Image Understanding, Signal Processing: Image Communication, Journal of King Saud University - Computer and Information Sciences, Measurement, International Journal of Electrical Power and Energy Systems
 
 
 Reviewer for Other Journals：Machine Learning, ISA Transactions, Jordanian Journal of Computers and Information Technology, Signal, Image and Video Processing, IET Communications, IET Image Processing, IET Generation, Transmission & Distribution.
 
-Reviewer for International Conferences：IEEE ICASSP 2024, IEEE ICASSP 2023, IEEE ICME 2023, IEEE ICME 2022, IEEE ICME 2021, IEEE ICME 2020, VCIP 2017, VCIP 2019, ICIG 2019.
+Reviewer for International Conferences：IEEE ICASSP 2024, ICME2024, IEEE ICASSP 2023, IEEE ICME 2023, IEEE ICME 2022, IEEE ICME 2021, IEEE ICME 2020, VCIP 2017, VCIP 2019, ICIG 2019.
 
 # Publication 2023
 
@@ -91,6 +91,24 @@ Reviewer for International Conferences：IEEE ICASSP 2024, IEEE ICASSP 2023, IEE
   booktitle={International Conference on Image and Graphics (ICIG)},
   year={2023},
   organization={Springer}
+}
+
+#### @article{zhao2023PRCV1,
+  title={WDU-Net: Wavelet-Guided Deep Unfolding Network for Image Compressed Sensing Reconstruction},
+  author={Wang, Xinlu and Zhao, Lijun and Zhang, Jinjing and Zhang, Yufeng and Wang, Anhong},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={79--91},
+  year={2023},
+  organization={Springer Nature Singapore Singapore}
+}
+
+#### @article{zhao2023PRCV2,
+  title={Deep Arbitrary-Scale Unfolding Network for Color-Guided Depth Map Super-Resolution},
+  author={Zhang, Jialong and Zhao, Lijun and Zhang, Jinjing and Chen, Bintao and Wang, Anhong},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={225--236},
+  year={2023},
+  organization={Springer Nature Singapore Singapore}
 }
 
 # Publication 2022
